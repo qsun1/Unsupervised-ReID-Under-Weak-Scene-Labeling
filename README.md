@@ -1,1 +1,3 @@
 # wireless-contrast
+This is an implementation of my bachelor thesis!
+## Coming soon...
