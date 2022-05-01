@@ -1,3 +1,3 @@
-# wireless-contrast
+# Unsupervised Person Re-Identification with Multimodal Data(with a contrastive baseline)
 This is an implementation of my bachelor thesis!
 ## Coming soon...
