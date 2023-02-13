@@ -1,3 +1,3 @@
-# Unsupervised Person Re-Identification with Multimodal Data(with a contrastive baseline)
+# Unsupervised Person Re-Identification with Multimodal Data
 This is an implementation of my bachelor thesis!
 ## Coming soon...
