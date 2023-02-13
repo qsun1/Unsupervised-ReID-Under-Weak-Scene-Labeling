@@ -1,3 +1,7 @@
 # Unsupervised Person Re-Identification with Multimodal Data
-This is an implementation of my bachelor thesis!
+Offical Implementation of UMTF
+
+
+## Method
+## Citation
 ## Coming soon...
