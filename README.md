@@ -7,8 +7,7 @@
 
 
 <p align="center">
-Existing unsupervised person re-identification methods only rely on visual clues to match pedestrians under different cameras. Since visual data is essentially susceptible to occlusion, blur, clothing changes, etc., a promising solution is to introduce heterogeneous data to make up for the defect of visual data. Some works based on full-scene labeling introduce wireless positioning to assist cross-domain person re-identification, but their GPS labeling of entire monitoring scenes is laborious. To this end, we propose to explore unsupervised person re-identification with both visual data and wireless positioning trajectories under weak scene labeling, in which we only need to know the locations of the cameras. Specifically, we propose a novel unsupervised multimodal training framework (UMTF), which models the complementarity of visual data and wireless information. Our UMTF contains a multimodal data association strategy (MMDA) and a multimodal graph neural network (MMGN). MMDA explores potential data associations in unlabeled multimodal data, while MMGN propagates multimodal messages in the video graph based on the adjacency matrix learned from histogram statistics of wireless data. Thanks to the robustness of the wireless data to visual noise and the collaboration of various modules, UMTF is capable of learning a model free of the human label on data. Extensive experimental results conducted on two challenging datasets, i.e., WP-ReID and DukeMTMC-VideoReID demonstrate the effectiveness of the proposed method.
-
+TL; DR: Conbined with wireless positioning data, we propose a noval method to boost unsupervised person re-identification performance under weak scene labeling.
 </p>
 <br>
 
