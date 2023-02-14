@@ -7,7 +7,7 @@
 
 
 <p align="center">
-TL; DR: Conbined with wireless positioning data, we propose a noval method to boost unsupervised person re-identification performance under weak scene labeling.
+TL; DR: Conbined with wireless positioning data, we propose a novel method to boost unsupervised person re-identification performance under weak scene labeling.
 </p>
 <br>
 
