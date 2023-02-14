@@ -1,7 +1,7 @@
 <p align="center">
 
-  <h1 align="center">MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction</h1>
-  <h3 align="center"><a href="https://arxiv.org/abs/2110.15610">Paper</a> </h3>
+  <h1 align="center">Unsupervised Person Re-Identification with Wireless Positioning under Weak Scene Labeling </h1>
+  <h3 align="center"><a href="https://arxiv.org/abs/2110.15610">Paper Link </a> </h3>
   <div align="center"></div>
 </p>
 
