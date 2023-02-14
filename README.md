@@ -14,30 +14,20 @@ TL; DR: Conbined with wireless positioning data, we propose a novel method to bo
 # Setup
 
 ## Installation
-The hash encoder will be compiled on the fly when running the code.
 
 ## Dataset
-```
-bash scripts/download_dataset.sh
-```
+We will release the link of our dataset soon.
 # Training
 
-Run the following command to train monosdf:
+Run the following command to train the network
 ```
-cd ./code
-CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.launch --nproc_per_node 1 --nnodes=1 --node_rank=0 training/exp_runner.py --conf CONFIG  --scan_id SCAN_ID
+sh tools/run.sh
 ```
-where CONFIG is the config file in `code/confs`, and SCAN_ID is the id of the scene to reconstruct.
-
-We provide example commands for training DTU, ScanNet, and Replica dataset as follows:
-
 # Evaluations
 
 ## WP-ReID
-please check the script for more details.
 
 ## Campus4K
-please check the script for more details.
 
 
 # Acknowledgements
