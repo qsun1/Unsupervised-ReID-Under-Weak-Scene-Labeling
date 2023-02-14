@@ -134,11 +134,21 @@ This project is built upon [VolSDF](https://github.com/lioryariv/volsdf). We use
 # Citation
 If you find our code or paper useful, please cite
 ```bibtex
-@article{Yu2022MonoSDF,
-  author    = {Yu, Zehao and Peng, Songyou and Niemeyer, Michael and Sattler, Torsten and Geiger, Andreas},
-  title     = {MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction},
-  journal   = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year      = {2022},
-}
-```
+@inproceedings{10.1145/3394171.3413984,
+author = {Liu, Yiheng and Zhou, Wengang and Xi, Mao and Shen, Sanjing and Li, Houqiang},
+title = {Vision Meets Wireless Positioning: Effective Person Re-Identification with Recurrent Context Propagation},
+year = {2020},
+isbn = {9781450379885},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3394171.3413984},
+doi = {10.1145/3394171.3413984},
+abstract = {Existing person re-identification methods rely on the visual sensor to capture the pedestrians. The image or video data from visual sensor inevitably suffers the occlusion and dramatic variations of pedestrian postures, which degrades the re-identification performance and further limits its application to the open environment. On the other hand, for most people, one of the most important carry-on items is the mobile phone, which can be sensed by WiFi and cellular networks in the form of a wireless positioning signal. Such signal is robust to the pedestrian occlusion and visual appearance change, but suffers some positioning error. In this work, we approach person re-identification with the sensing data from both vision and wireless positioning. To take advantage of such cross-modality cues, we propose a novel recurrent context propagation module that enables information to propagate between visual data and wireless positioning data and finally improves the matching accuracy. To evaluate our approach, we contribute a new Wireless Positioning Person Re-identification (WP-ReID) dataset. Extensive experiments are conducted and demonstrate the effectiveness of the proposed algorithm. Code will be released at https://github.com/yolomax/WP-ReID.},
+booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+pages = {1103–1111},
+numpages = {9},
+keywords = {wireless positioning, person re-identification, multi-modal recognition},
+location = {Seattle, WA, USA},
+series = {MM '20}
+}```
 
