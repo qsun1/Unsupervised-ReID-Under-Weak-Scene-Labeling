@@ -41,7 +41,7 @@ please check the script for more details.
 
 
 # Acknowledgements
-This project is built upon [VolSDF](https://github.com/lioryariv/volsdf). Evaluation scripts for DTU, Replica, and ScanNet are taken from [DTUeval-python](https://github.com/jzhangbs/DTUeval-python)respectively. We thank all the authors for their great work and repos. 
+This project is built upon [SpCL](https://github.com/yxgeee/SpCL) and [Cluster-Contrast](https://github.com/alibaba/cluster-contrast-reid). We thank all the authors for their great work and repos. 
 
 
 # Citation
