@@ -1,4 +1,4 @@
-# Unsupervised Person Re-Identification with Multimodal Data
+# Unsupervised Person Re-Identification under Weak Scene Labeling
 Offical Implementation of UMTF
 ## Method
 ## Citation
