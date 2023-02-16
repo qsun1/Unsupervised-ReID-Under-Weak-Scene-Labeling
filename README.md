@@ -4,18 +4,23 @@
   <h3 align="center"><a href="https://arxiv.org/abs/2110.15610">Paper Link </a> </h3>
   <div align="center"></div>
 </p>
-## This repo is updating...
+
+## This repo is still updating...
 
 <p align="center">
 TL; DR: Conbined with wireless positioning data, we propose a novel method to boost unsupervised person re-identification performance under weak scene labeling.
 </p>
 <br>
 Here is the overview of our model (in Chinese version).
+
 ![](assets/framework_cn.jpg)
+
 ![](assets/afm_cn.jpg)
 And here is the performance on the WPReID and Campus-4K datasets. (in Chinese version)
 # Setup
+
 ![](assets/performance_wpreid_cn.jpg)
+
 ![](assets/performance_4k_cn.jpg)
 
 ## Installation
@@ -60,4 +65,5 @@ author = {Liu, Yiheng and Zhou, Wengang and Xi, Mao and Shen, Sanjing and Li, Ho
 title = {Vision Meets Wireless Positioning: Effective Person Re-Identification with Recurrent Context Propagation},
 year = {2020},
 booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
-}```
+}
+```
