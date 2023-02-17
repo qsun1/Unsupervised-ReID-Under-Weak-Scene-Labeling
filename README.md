@@ -13,15 +13,15 @@ TL; DR: Conbined with wireless positioning data, we propose a novel method to bo
 <br>
 Here is the overview of our model (in Chinese version).
 
-![](assets/framework_cn.jpg)
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/framework_cn.jpg)
 
-![](assets/afm_cn.jpg)
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/afm_cn.png)
 And here is the performance on the WPReID and Campus-4K datasets. (in Chinese version)
 # Setup
 
-![](assets/performance_wpreid_cn.jpg)
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/performance_wpreid_cn.jpg)
 
-![](assets/performance_4k_cn.jpg)
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/performance_4k_cn.jpg)
 
 ## Installation
 
