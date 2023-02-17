@@ -5,28 +5,32 @@
   <div align="center"></div>
 </p>
 
-## This repo is still updating...
+## Implementation of [UMTF(TPAMI'22)](https://arxiv.org/abs/2110.15610) and [another variant](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/qisun_bachelor.pdf)
+) in the weak scene labeling scenario
++ still updating, please stay tuned...
 
 <p align="center">
 TL; DR: Conbined with wireless positioning data, we propose a novel method to boost unsupervised person re-identification performance under weak scene labeling.
 </p>
 <br>
-Here is the overview of our model (in Chinese version).
+# Method
+Here is the weak scene labeling setting.
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/setting.png)
+
+Here is the UMTF framework.
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/umtf.png)
+
+Here is the overview of the variant(in Chinese).
 
 ![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/framework_cn.png)
 
 ![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/afm_cn.png)
-And here is the performance on the WPReID and Campus-4K datasets. (in Chinese version)
+
 # Setup
-
-![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/performance_wpreid_cn.png)
-
-![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/performance_4k_cn.png)
-
 ## Installation
 
 ## Dataset
-We will release the link of our dataset soon.
+We will release the link of our dataset soon. Please contact Yiheng Liu or [Qi Sun](sq008@mail.ustc.edu.cn).
 # Training
 
 Run the following command to train the network
@@ -36,8 +40,12 @@ sh tools/run.sh
 # Evaluations
 
 ## WP-ReID
+The evaluation results should be consistent with the table below.(in Chinese) 
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/performance_wpreid_cn.png)
 
 ## Campus4K
+The evaluation results should be consistent with the table below.(in Chinese) 
+![](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/performance_4k_cn.png)
 
 
 # Acknowledgements
