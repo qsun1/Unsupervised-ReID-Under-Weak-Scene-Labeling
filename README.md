@@ -10,8 +10,8 @@ TL; DR: Conbined with wireless positioning data, we propose a novel method to bo
 </p>
 <br>
 
-## Implementation of [UMTF(TPAMI'22)](https://arxiv.org/abs/2110.15610) and [another variant](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/qisun_bachelor.pdf) in the weak scene labeling scenario
-still updating, please stay tuned...
+## Implementation of [UMTF(TPAMI'22)](https://arxiv.org/abs/2110.15610) and [another variant](https://github.com/qsun1/Unsupervised-ReID-Under-Weak-Scene-Labeling/blob/main/assets/qisun_bachelor.pdf) in the **Weak Scene Labeling** scenario
+Still updating, please stay tuned...
 
 # Method
 Here is the weak scene labeling setting.
